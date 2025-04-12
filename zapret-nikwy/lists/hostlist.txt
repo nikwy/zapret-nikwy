@@ -3,3 +3,4 @@ youtube.com
 ytimg.com
 youtu.be
 googleapis.com
+discordapp.net
